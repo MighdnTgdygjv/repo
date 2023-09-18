@@ -9,5 +9,16 @@
     "link": "https://play.google.com/store/apps/details?id=com.mkopo.loan.pesax.credit.tanzania",
     "country": "TZ",
     "currency": "TZS"
+  },
+    {
+    "id": "2",
+    "name": "MiniPrêt",
+    "quota": "30 000 - 500 000",
+    "rate": "Taux d'intérêt annuel de 3,5% à 12%",
+    "period": "3 à 24 mois",
+    "logo": "",
+    "link": "https://play.google.com/store/apps/details?id=com.trust.sidra.enespeces.mini.momo.payer.argent.pret.pret.bourse",
+    "country": "CI",
+    "currency": "FCFA"
   }
 ]
