@@ -20,5 +20,16 @@
     "link": "https://play.google.com/store/apps/details?id=com.trust.sidra.enespeces.mini.momo.payer.argent.pret.pret.bourse",
     "country": "CI",
     "currency": "FCFA"
+  },
+    {
+    "id": "3",
+    "name": "SonicCredit",
+    "quota": "100 - 6,000",
+    "rate": "10%-22%",
+    "period": "3 - 12 months",
+    "logo": "",
+    "link": "https://play.google.com/store/apps/details?id=com.sonic.soniccredit.creditgh",
+    "country": "GH",
+    "currency": "GHS"
   }
 ]
